@@ -8,7 +8,7 @@ Hola ✌️  soy el explorer **Angeles** y este es mi blog personal donde compar
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 **Mis expectativas son:**
-🚀Aprender cosas nuevas.
-🚀Aplicar mis conocimienos, y poder relacionarlo con mi carrera.
-🚀Aprender a diseñar.
-🚀Entender el mundo de programaión.
+-Aprender cosas nuevas.
+-Aplicar mis conocimienos, y poder relacionarlo con mi carrera.
+-Aprender a diseñar.
+-Entender el mundo de programaión.
